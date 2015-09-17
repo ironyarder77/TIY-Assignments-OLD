@@ -1,0 +1,36 @@
+HTML ELEMENTS DEFINED BY FUNCTION
+Matt Oliverio edited this page 6 days ago · 2 revisions
+ Pages 4
+Home
+HTML ELEMENTS DEFINED BY FUNCTION
+Multi column forms switch view mode explored definitions etc page 1
+Study Guide for DOM LISTS VS DICTIONARIES more
+ Add a custom sidebar
+Clone this wiki locally
+
+
+https://github.com/ironyarder77/TIY-Assignments.wiki.git
+  Clone in Desktop
+HTML ELEMENT FORMS DEFINED BY FUNCTION
+
+Form-defines an html form for user input
+input- defines an input control
+textarea- defines a multiline input control (text area)
+label-defines a label for an input element
+fieldset- groups related elements in a form
+legend-defines a caption for a fieldset element
+select-defines a drop-down list
+optogroup- defines a group of related options in a drop-down list
+option-defines an option in a drop down list
+button-defines a clickable button
+datalist a list of pre-defined options for input controls
+keygen-defines a key pair generator field (for forms)
+output -defines the outcome of a calculation
+Tag Description
+Defines an HTML form for user input Defines an input control Defines 
+a multiline input control (text area) Defines a label for an element
+Groups related elements in a form Defines a caption for a element 
+Defines a group of related options in a drop-down list Defines an 
+option in a drop-down list Defines a clickable button Specifies a 
+list of pre-defined options for input controls Defines a key-pair 
+generator field (for forms) Defines the result of a calculation
