@@ -1,0 +1,41 @@
+EDITING MULTI COLUMN FORMS SWITCH VIEW MODE EXPLORED DEFINITIONS ETC 
+Explore these definitions further. _Nested Accordion_is .js and jquery feature that displays
+additional content when clicked. There are Standardized and Stylized accordions which can add some 
+formatting. You can also have a Fluid Accordion can fill the width of its container. Its name describes 
+more of a spatial feature than a dynamic feature since they all have a certain movement. Example would 
+be a dropdown menu that
+
+What does it do?
+What interactive elements exist? the feature basically opens like an accordion, thus its name, and 
+reveals (n) number of features as a subset to the default display
+How do you interact with them? clicks
+What visual effects are produced by interacting? the accordion expands
+How does it do it?
+What existing HTML elements are changed?
+What new HTML elements are created?
+What CSS styles are used to produce the effect?
+_View Mode Switch_it allows basic switching of views like rollover menu items creating a small pop up box.
+this is considered to be at entity level
+
+What does it do?
+What interactive elements exist? it creates new options on the user end
+How do you interact with them?rollovers and clicks
+What visual effects are produced by interacting? the pop up box of some sort
+How does it do it?
+What existing HTML elements are changed?
+What new HTML elements are created?
+What CSS styles are used to produce the effect?
+_Responsive Multi-Column Form_this is basically a two or more columned blueprint for the document 
+object model and an example would be a submittal form for instance
+
+What does it do?
+
+What interactive elements exist? rollovers, clicks, tabs work
+How do you interact with them? clicks rollover prompts
+What visual effects are produced by interacting? The fields are populated with the info that the user inputs.
+How does it do it?
+
+What existing HTML elements are changed?
+What new HTML elements are created?
+What CSS styles are used to produce the effect? CSS columns which can be applied really to any element. 
+I need to confirm but I think you can use nests two multi-responsive columns inside one another
