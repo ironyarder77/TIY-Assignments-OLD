@@ -1,0 +1,8 @@
+/*width changed to 25% to account for columns expanding */
+@media screen= cinema-display;
+cinema-display and (max-width: 1600px) {
+	.cbp-mc-column {
+		width: 25%;
+		padding: 10px;
+	}
+}
