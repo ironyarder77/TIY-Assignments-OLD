@@ -1,0 +1,9 @@
+
+@media screen and (max-width: 100em) {
+	.cbp-mc-column {
+		width: 33%;
+	}
+	.cbp-mc-column:nth-child(3) {
+		width: 100%;
+	}
+}
